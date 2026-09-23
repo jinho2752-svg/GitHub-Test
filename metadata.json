@@ -1,0 +1,10 @@
+{
+  "name": "금공 5인방 우정여행",
+  "description": "금공 5인방을 위한 실시간 제주 맛집, 카페 및 관광명소 트래커 (키워드 검색, 지도 이동 5km 반경 탐색 및 깃발 저장)",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
